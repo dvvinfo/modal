@@ -1,4 +1,4 @@
-# vue-cli
+# Modal by Vue.js
 
 ## Project setup
 ```
